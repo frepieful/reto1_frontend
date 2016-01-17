@@ -1,2 +1,2 @@
-# Reto 2 de backend
-Este es el reto 2 de backend de hackspace.la
+# Reto 1 de frontend
+Este es el reto 1 de frontend de hackspace.la
